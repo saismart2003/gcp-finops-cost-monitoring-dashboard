@@ -1,0 +1,22 @@
+                 GCP Cloud Billing
+                        │
+                        ▼
+                 Billing Export
+                        │
+                        ▼
+                    BigQuery
+                        │
+                        ▼
+                  SQL Analysis
+                        │
+                        ▼
+                  Looker Studio
+                        │
+                        ▼
+                FinOps Dashboard
+                  /    |    \
+                 /     |     \
+          Projects   Services  Regions
+                    │
+                    ▼
+              Cost Analytics
